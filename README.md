@@ -1,9 +1,8 @@
-## Hi there 👋
+
 # Hi there, I'm Isabella 👋
 
 I'm a Accounting and Finance major
-
----
+* For Resume , click [here](https://rawcdn.githack.com/iaccoisabella-commits/iaccoisabella-commits/da0b2721aad2a134300a6df770657cc6230d92a8/Resume.pdf)
 
 ### 🎓 About Me
 
